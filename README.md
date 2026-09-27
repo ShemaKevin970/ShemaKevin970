@@ -1,16 +1,12 @@
-## Hi there 👋
+### Shema Kevin
 
-<!--
-**ShemaKevin970/ShemaKevin970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Identity**
+- **Full Name:** Shema Kevin
+- **Admission Number:** 1004
+- **Classroom Email:** kevinshema970@gmail.com
+- **GitHub Username:** ShemaKevin970
+- **Season:** Sept-Dec 2026
+- **Track:** Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm a software engineering student who loves programming, graphic design, and writing.
+Currently learning Git, HTML5 semantics, and portfolio building for IYF S12 Week 01.
